@@ -1,0 +1,9 @@
+{
+  "name": "徐工ChromeV3测试",
+  "description": "徐工ChromeV3测试-描述",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
